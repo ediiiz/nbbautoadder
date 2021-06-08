@@ -1,4 +1,4 @@
-# NBB Add to Checkout
+# NBB Add ID to Checkout
 
 .bookmarklet for Chrome Bookmarks (Desktop only)
 
